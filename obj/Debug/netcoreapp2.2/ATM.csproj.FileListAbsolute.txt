@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/ATM/bin/Debug/netcoreapp2.2/ATM.deps.json
+/Users/Guest/Desktop/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.json
+/Users/Guest/Desktop/ATM/bin/Debug/netcoreapp2.2/ATM.runtimeconfig.dev.json
+/Users/Guest/Desktop/ATM/bin/Debug/netcoreapp2.2/ATM.dll
+/Users/Guest/Desktop/ATM/bin/Debug/netcoreapp2.2/ATM.pdb
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.AssemblyInfo.cs
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.dll
+/Users/Guest/Desktop/ATM/obj/Debug/netcoreapp2.2/ATM.pdb
